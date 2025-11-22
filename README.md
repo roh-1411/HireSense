@@ -83,26 +83,18 @@ Estimates:
 
 ---
 
-Hiresense.AI/
-            │
 
-            ├── app.py
-
-            ├── agents/
-
-            │           ├── role_reality_agent.py
-
-            │           ├── resume_reality_agent.py
-
-            │           ├── fit_agent.py
-
-            │           ├── friendly_agent.py
-  
-            │           ├── resume_parser_agent.py
-
-            │           └── openai_client.py
-
-            ├── requirements.txt
+            Hiresense.AI/
+                        │
+                        ├── app.py
+                        ├── agents/
+                        │         ├── role_reality_agent.py
+                        │         ├── resume_reality_agent.py
+                        │         ├── fit_agent.py
+                        │         ├── friendly_agent.py
+                        │         ├── resume_parser_agent.py
+                        │         └── openai_client.py
+                        ├── requirements.txt
  
 
 ---
@@ -114,6 +106,7 @@ pip install -r requirements.txt
 
 ### 2️⃣ Add API Keys (.env)
 OPENAI_API_KEY=your_openai_key
+
 SERPAPI_KEY=your_serpapi_key
 
 ### 3️⃣ Run App
