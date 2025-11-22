@@ -82,7 +82,9 @@ Estimates:
 # 🏗 Project Structure
 
 Hiresense.AI/
+
 │
+
 ├── app.py
 
 ├── agents/
