@@ -83,27 +83,26 @@ Estimates:
 
 Hiresense.AI/
 
-│
+             │
 
-├── app.py
+             ├── app.py
 
-├── agents/
+             ├── agents/
 
-│   ├── role_reality_agent.py
+            │          ├── role_reality_agent.py
 
-│   ├── resume_reality_agent.py
+            │         ├── resume_reality_agent.py
 
-│   ├── fit_agent.py
+            │         ├── fit_agent.py
 
-│   ├── friendly_agent.py
+            │         ├── friendly_agent.py
 
-│   ├── resume_parser_agent.py
+            │         ├── resume_parser_agent.py
 
-│   └── openai_client.py
+            │         └── openai_client.py
 
-├── requirements.txt
-
-└── README.md
+            ├── requirements.txt
+ 
 
 ---
 
