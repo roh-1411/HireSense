@@ -81,6 +81,8 @@ Estimates:
 
 # 🏗 Project Structure
 
+---
+
 Hiresense.AI/
 
              │
