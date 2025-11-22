@@ -1,0 +1,6 @@
+openai
+google-search-results
+python-dotenv
+streamlit
+PyPDF2
+python-docx
